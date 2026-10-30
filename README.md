@@ -7,9 +7,5 @@ This is the course repository [https://github.com/breuert/data-integration](http
 
 This is my Teams repository (in works)
 
-Labs:
-|Lab 1| [https://github.com/breuert/data-integration/blob/main/labs/open_source_software_and_open_data.md](https://github.com/breuert/data-integration/blob/main/labs/open_source_software_and_open_data.md) |
-
-
 License: In works
 
