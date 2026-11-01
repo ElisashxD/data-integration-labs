@@ -5,13 +5,13 @@ It´s GNU! Version 5.3.15(2)-release
 
 2. Where am I?
 I want to know which absolute path my home directory has in comparison to my downloads folder.
-|home directory|downloads folder|
-|:--------------|-----------------:|
-|/c/Users/<user>|/c/Users/<user>/downloads|
+| home directory | downloads folder |
+| :--- | ---:|
+| /c/Users/<user> | /c/Users/<user>/downloads |
 
 3.Where do commands come from? 
 I have **24** directories in my PATH and the directory that is searched first is /c/Users/<user>/bin
------
+
 Also, curl is installed in /ucrt64/bin, git is installed in /ucrt64/bin as well. python3 is installed in /c/Users/<user>/AppData/Local/Microsoft/WindowsApps.
 
 Asking for the version of git results in git version 2.56.0.windows.4
