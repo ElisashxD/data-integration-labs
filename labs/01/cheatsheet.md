@@ -54,6 +54,7 @@ In general Links can be implemented by using square brackets and parentheses
 
 reference-style links:
 [Picture][label]
+
 [label]:https://imgs.search.brave.com/gPP3fXPSzp64KNAJum0MiWiGFxefDhnUq72kNi9LOKQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93ZWFy/ZXRoZW11dGFudHMu/Y29tL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDE4LzAzL2hlLW1h/bi1za2VsZXRvci5q/cGc_dz03MDA
 
 
