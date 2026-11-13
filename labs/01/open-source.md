@@ -8,8 +8,12 @@
    - the name of the copyright holder and names of contributers aren´t allowed to be used in promotion of pandas derived products
 
     It is permitted to use the pandas library for commercial use, private use, distribution and modification.
+
+2. What machines see.
+   The spdx_id results the BSD-3-Clause. This matches what I found on the visual interface of github.
+   For my own it´s MIT.
    
-2. Community files. Which of README, LICENSE, CONTRIBUTING and CODE_OF_CONDUCT does the project have? GitHub lists them under Insights → Community standards.
+4. Community files. Which of README, LICENSE, CONTRIBUTING and CODE_OF_CONDUCT does the project have? GitHub lists them under Insights → Community standards.
     
 5. People. How many contributors does it have? Who decides what gets merged?
 
